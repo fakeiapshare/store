@@ -19,7 +19,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>https://yt3.googleusercontent.com/ytc/AL5GRJWdZQYyNKTg3rcu150uY0nVZJyvbBkeV56KPih2Bw=s900-c-k-c0x00ffffff-no-rj</string>
+<string>https://w7.pngwing.com/pngs/262/894/png-transparent-music-video-star-app-store-red-star-angle-triangle-symmetry.png</string>
 </dict>
 <dict>
 <key>kind</key>
