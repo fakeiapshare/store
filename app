@@ -27,7 +27,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>Video Star</string>
+<string>App</string>
 </dict>
 </array>
 <key>metadata</key>
