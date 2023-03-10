@@ -39,7 +39,7 @@
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>Video Star</string>
+<string>App</string>
 </dict>
 </dict>
 </array>
