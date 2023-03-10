@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://archive.org/download/video7_202303/video7.ipa</string>
+<string>https://archive.org/download/video-star-tweakdoor.com_202303/Video%20Star%20Tweakdoor.com.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
