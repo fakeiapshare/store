@@ -19,7 +19,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string></string>
+<string>https://tweakapp.us/videostaricon.png</string>
 </dict>
 <dict>
 <key>kind</key>
