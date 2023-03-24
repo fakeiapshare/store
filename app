@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://archive.org/download/video-star-2_202303/videoStar%202.ipa</string>
+<string>https://up-ipa.xyz/share/DvWPZlsbOzVrH6M1/direct</string>
 </dict>
 <dict>
 <key>kind</key>
