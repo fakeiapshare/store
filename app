@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://up-ipa.xyz/share/DvWPZlsbOzVrH6M1/direct</string>
+<string>https://up-ipa.xyz/share/vlERtTSFFy7g8qV5/direct</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -33,7 +33,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.frontierdesign.videostar</string>
+<string>com.frontierdesign.videostaru</string>
 <key>bundle-version</key>
 <string>1</string>
 <key>kind</key>
